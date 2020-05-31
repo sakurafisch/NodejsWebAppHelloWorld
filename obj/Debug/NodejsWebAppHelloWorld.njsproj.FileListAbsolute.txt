@@ -1,0 +1,3 @@
+C:\Users\10405\source\repos\NodejsWebAppHelloWorld\obj\Debug\NodejsWebAppHelloWorld.njsprojAssemblyReference.cache
+C:\Users\10405\source\repos\NodejsWebAppHelloWorld\obj\Debug\NodejsWebAppHelloWorld.njsproj.CoreCompileInputs.cache
+C:\Users\10405\source\repos\NodejsWebAppHelloWorld\bin\Microsoft.NodejsTools.WebRole.dll
